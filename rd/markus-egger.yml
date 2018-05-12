@@ -3,7 +3,7 @@ uid: rd.markus-egger
 name: Markus Egger
 metadata:
   title: Markus Egger - Microsoft Regional Director
-  description: Entrepreneur, Microsoft Regional Director, and Software Engineer in Houston, Texas
+  description: Entrepreneur, Microsoft Regional Director, and Software Engineer. Spends his time in Houston, Maui, and Austria.
 remarks: |
   ## Bio
   I am the President and Chief Software Architect of EPS Software Corp. and it's
@@ -12,7 +12,7 @@ remarks: |
   Microsoft RD (Regional Director) and one of the longest-serving MVPs
   (1995-present). In addition, I am the founder of other business ventures, such
   as Wikinome (Genetic Sequencing Analysis), Tower48 (digital software escrow),
-  L2 International Real Estate, and more.
+  KavaDocs (Documentation software), L2 International Real Estate, and more.
   
   I have worked on a large number of software projects for some of the world's
   largest companies (including a number of Fortune 500 companies). I have worked
@@ -26,9 +26,8 @@ remarks: |
   various user groups.
   
   My current key areas of technological interest are a mixture of Windows and
-  Web Development (using mostly Microsoft technologies, such as WPF and
-  ASP.NET), as well as server-side technologies, especially Microsoft's Azure
-  cloud.
+  Web Development, with a bit of Mobile mixed in, and of course a whole lot of
+  Cloud Development, especially on Azure.
   
   In my spare time, I am an enthusiastic ice hockey player, golfer as well as an
   avid windsurfer, traveler, and general enthusiast of sports such as scuba
@@ -36,8 +35,8 @@ remarks: |
   or research new technologies.
   
   Talk to me about: Windows Apps (WPF and others), ASP.NET, HTML5 (including
-  Angular), C#, JavaScript, Cloud, Azure, Services/Microservices, databases,
-  CODE Magazine, genetics, software escrow, and many other topics.
+  Angular, REST, ...), C#, JavaScript/TypeScript, Cloud, Azure, Services/Microservices, 
+  databases, Blockchain, CODE Magazine, genetics, software escrow, and many other topics.
 
   ## Spotlight
   I’m the owner of a consulting, custom software, and training company focused
